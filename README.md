@@ -1,14 +1,13 @@
- # FIFA-18-Management-System (FMS)
+ # FIFA-23-Management-System (FMS)
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
 ***NOTE: Please read the installation and execution steps provided below before downloading. Thank you.***
 
-***Project demo: [Project demo video link](https://drive.google.com/open?id=1dcTCe_G5rUe6ibVh3Yd_pe3PIPPDiJ1c)***
 
 ## About FMS
 
-FIFA 18 Player management system is a player management software for monitoring and accessing players based on their FIFA 18 PC/XBOX game ratings. HTML, CSS, and JavaScript were used for front-end development, and PHP and MySQL were used for back-end development. The system mainly focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills. It is a web-based application designed and developed to help users access players and organize their teams. It’s easy to use, and it features a familiar and attractive user interface combined with strong searching, insertion, and deletion with procedure capabilities.
+FIFA 23 Player management system is a player management software for monitoring and accessing players based on their FIFA 23 PC/XBOX game ratings. HTML, CSS, and JavaScript were used for front-end development, and PHP and MySQL were used for back-end development. The system mainly focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills. It is a web-based application designed and developed to help users access players and organize their teams. It’s easy to use, and it features a familiar and attractive user interface combined with strong searching, insertion, and deletion with procedure capabilities.
 
 ## FMS requirements
 
@@ -51,7 +50,5 @@ This project consists of player details which include the likes of player’s ag
           - type the following url : http://localhost/your_project_name_inside_www_directory/index.html
           - enjoy.
  
-## Linting tool used:
-1. JSLint 
 
-For further queries : Drop me mail at pklappy21@gmail.com
+For further queries : Drop me mail at shubhamparmekar2003@gmail.com
